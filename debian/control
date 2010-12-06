@@ -8,7 +8,8 @@ XS-Python-Version: current
 
 Package: gunicorn
 Architecture: all
-Depends: ${python:Depends}
+Depends: ${python:Depends},
+ python-setuptools
 XB-Python-Version: ${python:Versions}
 Provides: ${python:Provides}
 Description: WSGI HTTP Server for UNIX
