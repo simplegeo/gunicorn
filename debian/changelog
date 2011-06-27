@@ -1,3 +1,9 @@
+gunicorn (0.11.2.1sg101) maverick; urgency=low
+
+  * UNRELEASED
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Mon, 27 Jun 2011 00:28:55 +0000
+
 gunicorn (0.11.2.1sg72) lucid; urgency=low
 
   * UNRELEASED
